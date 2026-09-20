@@ -1,0 +1,21 @@
+{
+  "version": "1.1.0",
+  "environment": "PowerShell 7.4.13 on Linux with isolated game-directory fixtures",
+  "passed": [
+    "Automatic Steam library and manifest discovery",
+    "Flat and nested installation layouts",
+    "Paths with spaces, brackets, apostrophes and exclamation marks",
+    "Fresh install of actual nine-file release payload",
+    "Repeated installation does not recopy identical files",
+    "Upgrade backs up and replaces changed files",
+    "Missing payload rejected before writes",
+    "Partial-copy failure restores prior assets",
+    "Unrelated RoboCop asset preserved",
+    "Upgrade from previous six-file release adds three Chief container files"
+  ],
+  "limits": [
+    "Windows PowerShell 5.1 and Windows file-picker execution not run here",
+    "Black shirts and cars confirmed in game by author; added black pants verified in decoded textures and mip data, not in game here",
+    "Chief first-person and full-body appearance verified offline; in-game verification not performed here"
+  ]
+}

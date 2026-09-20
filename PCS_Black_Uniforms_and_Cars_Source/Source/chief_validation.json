@@ -1,0 +1,41 @@
+{
+  "version": "1.1.0",
+  "status": "offline_checks_passed",
+  "in_game": "Chief clothing not run in game here",
+  "checks": [
+    {
+      "asset": "Shirt_Diffuse.uasset",
+      "white_shirt_pixels": 4192219,
+      "mean_shirt_rgb": [
+        230.41,
+        230.5,
+        231.16
+      ],
+      "gold_pixels_changed": 0,
+      "changes_confined_to_clothing_blocks": true,
+      "metadata_preserved_except_hashes_and_fallback": true,
+      "bulk_hashes_verified": true,
+      "mips_verified": 12
+    },
+    {
+      "asset": "__meshes_Merge_0_Diffuse.uasset",
+      "white_shirt_pixels": 618706,
+      "mean_shirt_rgb": [
+        222.11,
+        223.18,
+        224.63
+      ],
+      "gold_pixels_changed": 0,
+      "changes_confined_to_clothing_blocks": true,
+      "metadata_preserved_except_hashes_and_fallback": true,
+      "bulk_hashes_verified": true,
+      "black_pants_pixels": 1091283,
+      "mean_pants_rgb": [
+        16.04,
+        19.75,
+        18.11
+      ],
+      "mips_verified": 12
+    }
+  ]
+}

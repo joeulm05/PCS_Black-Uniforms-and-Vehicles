@@ -1,0 +1,27 @@
+Black Uniforms and Police Cars v1.1.0
+Author: Joe "Gambit" Bradford
+
+GITHUB
+Create a separate repository for this cosmetic mod, or open its existing
+repository if you already made one. Do not upload this over the RoboCop repo.
+
+Extract PCS_Black_Uniforms_and_Cars_GitHub_v1.1.0.zip.
+Open the extracted PCS_Black_Uniforms_and_Cars_Source folder.
+On the repository page choose Add file > Upload files.
+Upload the CONTENTS of that folder, preserving the directory structure.
+Use commit message: Black Uniforms and Police Cars v1.1.0 - Chief white shirt and black pants.
+Commit the changes. Verify README.md says v1.1.0.
+
+For a player download on GitHub, create a Release tagged v1.1.0 and attach
+PCS_Black_Uniforms_and_Cars_Nexus_v1.1.0.zip as a release asset.
+Do not upload the large player ZIP into the repository's source file listing.
+
+NEXUS
+Upload PCS_Black_Uniforms_and_Cars_Nexus_v1.1.0.zip to this mod's Nexus page.
+Use version 1.1.0 and add your GitHub source link to the description.
+The player ZIP includes the full textures and installer, including the Chief outfit; it is not a separate patch.
+GitHub updates do not automatically replace Nexus downloads or transfer review
+approval from another mod. The GitHub source ZIP excludes original game artwork.
+
+The source package includes Source/validation.json and
+Source/Installer_Validation.json describing the checks and their limits.

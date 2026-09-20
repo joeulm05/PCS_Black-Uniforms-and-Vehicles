@@ -1,0 +1,50 @@
+{
+  "version": "1.1.0",
+  "files": [
+    {
+      "name": "zz_PCS_Black_PoliceCar_P.pak",
+      "size": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zz_PCS_Black_PoliceCar_P.ucas",
+      "size": 25379370,
+      "sha256": "247b2a0413ec83bde57243a149d05f314d6ffcc1203cdd11bfadf9c54705fe67"
+    },
+    {
+      "name": "zz_PCS_Black_PoliceCar_P.utoc",
+      "size": 5605,
+      "sha256": "2cd10531ea0a37f4382e5098562db66cd793cf37f57dc3ddf71f6b0ee99fd80f"
+    },
+    {
+      "name": "zz_PCS_Black_Uniforms_P.pak",
+      "size": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zz_PCS_Black_Uniforms_P.ucas",
+      "size": 38636176,
+      "sha256": "a770c325689b0eb7661630aa4b72d3194edbe4dd45dd1e238b44ed891ac0f229"
+    },
+    {
+      "name": "zz_PCS_Black_Uniforms_P.utoc",
+      "size": 11305,
+      "sha256": "1009fdb6a147be3d431fdd4d5c95c4e1e37d4dce2fb3118cc84d10193325dd4a"
+    },
+    {
+      "name": "zz_PCS_Chief_Uniform_P.pak",
+      "size": 347,
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd"
+    },
+    {
+      "name": "zz_PCS_Chief_Uniform_P.ucas",
+      "size": 6439360,
+      "sha256": "aa3094968e58142f1be3e56608cfa73b530ebaa7d5712e137b132cd2a6915870"
+    },
+    {
+      "name": "zz_PCS_Chief_Uniform_P.utoc",
+      "size": 2346,
+      "sha256": "6cd3b2faaa9142d8f659267217144e9b192cd78115f7b427b61caf9fa12f7612"
+    }
+  ]
+}

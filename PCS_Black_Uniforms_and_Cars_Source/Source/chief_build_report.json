@@ -1,0 +1,22 @@
+[
+  {
+    "asset": "PoliceChiefSimulator/Content/ProjectPreasidium/Art/Characters/ControlRig_Characters/PolicePlayerFPP_02/Materials/PlayerFPPPolice_02/PlayerFPPPolice_02_fbm/Shirt_Diffuse.uasset",
+    "mode": 2,
+    "source_asset_sha256": "d2f3abfac6457917632f55796026e9152495d3799d8fc703c99b34faa693b81e",
+    "source_bulk_sha256": "fab4a022fb62d9db32e15db0f89a79ebd04e42a78ad900b69baee8f5892ebb7b",
+    "mesh_sha256": "c4318301990114b0d0196eb44d7b21073762a6fa8ef421c4f2b0f8192ef1f675",
+    "changed_pixels": 4192219,
+    "changed_blocks": 402187,
+    "bytes": 3218316
+  },
+  {
+    "asset": "PoliceChiefSimulator/Content/ProjectPreasidium/Art/Characters/ControlRig_Characters/PolicePlayer_CR/Materials/PlayerPoliceCR/PlayerPoliceCR_fbm/__meshes_Merge_0_Diffuse.uasset",
+    "mode": 3,
+    "source_asset_sha256": "10ef022d71ad6e828730e0812808ece802f5c705f513ac073c05a8556c35d6c1",
+    "source_bulk_sha256": "f8fe31260856b83b0f97d003ff14e4e5ea8202b717d1faeaf91e66e1a3dc770b",
+    "mesh_sha256": "c4318301990114b0d0196eb44d7b21073762a6fa8ef421c4f2b0f8192ef1f675",
+    "changed_pixels": 1709989,
+    "changed_blocks": 174486,
+    "bytes": 3218316
+  }
+]

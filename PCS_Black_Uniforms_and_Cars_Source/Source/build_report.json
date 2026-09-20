@@ -1,0 +1,226 @@
+[
+  {
+    "key": "Worker_01_F",
+    "package": "/Game/ProjectPreasidium/Art/Characters/ControlRig_Characters/Workers/Worker_01_F/Uniform1/Materials/NPC_Worker_01_F_Uniform01/NPC_Worker_01_F_Uniform01_fbm/__meshes_Merge_0_Diffuse",
+    "mode": "shirt_and_pants_components",
+    "source_asset_sha256": "f12b6a2d8f9481563e8b2ee078bf1687b1b3fd46cf81d98dd290958e59dc41b9",
+    "source_bulk_sha256": "8512eb539894663c6a07fe6ab14096f6974e9eba4ff26bbc4d5a53717565525b",
+    "fallback": [
+      0.07063607511684619,
+      0.05963507671901397,
+      0.04660180091776378,
+      1.0
+    ],
+    "changed_pixels": 2195852,
+    "changed_blocks": 215442,
+    "bytes": 3218316
+  },
+  {
+    "key": "Worker_01_M",
+    "package": "/Game/ProjectPreasidium/Art/Characters/ControlRig_Characters/Workers/Worker_01_M/Uniform01/Materials/NPC_Worker_01_M_Uniform01/NPC_Worker_01_M_Uniform01_fbm/__meshes_Merge_0_Diffuse",
+    "mode": "shirt_and_pants_components",
+    "source_asset_sha256": "0fb71469e1237c7e1ad8766f51d6fc3bebab3ab2b16b4c3d6c20170f950353e1",
+    "source_bulk_sha256": "6629e3af9ad3d5b4da398f0cfe4113e51efa6d306a4085300fc1f6118cc62ab8",
+    "fallback": [
+      0.06872163649838947,
+      0.059032390590796735,
+      0.04759317581009137,
+      1.0
+    ],
+    "changed_pixels": 2226603,
+    "changed_blocks": 217978,
+    "bytes": 3218316
+  },
+  {
+    "key": "Worker_02_F",
+    "package": "/Game/ProjectPreasidium/Art/Characters/ControlRig_Characters/Workers/Worker_02_F/Uniform1/Materials/NPC_Worker_02_F_Uniform1/NPC_Worker_02_F_Uniform1_fbm/__meshes_Merge_0_Diffuse",
+    "mode": "shirt_and_pants_components",
+    "source_asset_sha256": "9eba62eb6863672f2fa86e5f388df0a5f95d1fd757ed348ff9f3b93792e7c39d",
+    "source_bulk_sha256": "b08287b305c332fe65b49f72407ef252244729e8b2e8bcec93f6c9fbab9d8c86",
+    "fallback": [
+      0.06884020054359868,
+      0.058239594931483646,
+      0.04574661402209268,
+      1.0
+    ],
+    "changed_pixels": 2152147,
+    "changed_blocks": 211294,
+    "bytes": 3218316
+  },
+  {
+    "key": "Worker_02_M",
+    "package": "/Game/ProjectPreasidium/Art/Characters/ControlRig_Characters/Workers/Worker_02_M/Uniform1/Materials/NPC_Worker_02_M_Uniform1/NPC_Worker_02_M_Uniform1_fbm/__meshes_Merge_0_Diffuse",
+    "mode": "shirt_and_pants_components",
+    "source_asset_sha256": "0bcd8ac7cabb0ac41afb74747640c7a84082a88ffc59fc03cc6363beea208994",
+    "source_bulk_sha256": "ea2f1c1759b17ff01575b017aeb7ddf4dccef5b6c67311c20d274ba1277eeaf1",
+    "fallback": [
+      0.0680967842916324,
+      0.05790134246077824,
+      0.0458244001818065,
+      1.0
+    ],
+    "changed_pixels": 2180244,
+    "changed_blocks": 214156,
+    "bytes": 3218316
+  },
+  {
+    "key": "Worker_03_F",
+    "package": "/Game/ProjectPreasidium/Art/Characters/ControlRig_Characters/Workers/Worker_03_F/Uniform1/Materials/NPC_Worker_03_F/NPC_Worker_03_F_fbm/__meshes_Merge_0_Diffuse",
+    "mode": "shirt_and_pants_components",
+    "source_asset_sha256": "32f6ff6b0c0ea2fc3433d10c69b8b3620712eeeb3c7782e9098f7e85274f2c98",
+    "source_bulk_sha256": "b78eb06253a5b3e0baa0528dc37d62fbd714e56a075c8e24501eb7abae077511",
+    "fallback": [
+      0.06816414494371517,
+      0.05781877559100865,
+      0.045899884219459425,
+      1.0
+    ],
+    "changed_pixels": 2164087,
+    "changed_blocks": 212297,
+    "bytes": 3218316
+  },
+  {
+    "key": "Worker_03_M",
+    "package": "/Game/ProjectPreasidium/Art/Characters/ControlRig_Characters/Workers/Worker_03_M/Uniform1/Materials/NPC_Worker_03_M/NPC_Worker_03_M_fbm/__meshes_Merge_0_Diffuse",
+    "mode": "shirt_and_pants_components",
+    "source_asset_sha256": "8d3a0e011db802e9c52629b4cfbf18bf7c5639f57029b8fad9f740a70cd8cd87",
+    "source_bulk_sha256": "7b8488fa49a7c314940f7fb24819d5a010dc4c138e7540ac8c91b8c2ec7fc151",
+    "fallback": [
+      0.10494028357390808,
+      0.078034999611757,
+      0.04621897009391712,
+      1.0
+    ],
+    "changed_pixels": 2080639,
+    "changed_blocks": 204502,
+    "bytes": 3218316
+  },
+  {
+    "key": "Worker_04_F",
+    "package": "/Game/ProjectPreasidium/Art/Characters/ControlRig_Characters/Workers/Worker_04_F/Uniform1/Materials/NPC_Worker_04_F/NPC_Worker_04_F_fbm/__meshes_Merge_0_Diffuse",
+    "mode": "shirt_and_pants_components",
+    "source_asset_sha256": "3aa81069f1997b69745d8ff99fabe32d2ff198f9b0da97161ec40e065f63528b",
+    "source_bulk_sha256": "c6b1ecde43e8731fc53353245fb8a273260a3d19929484c2be35fde0a6da8e4e",
+    "fallback": [
+      0.06707518911883817,
+      0.057383481462634195,
+      0.04588493008434011,
+      1.0
+    ],
+    "changed_pixels": 2203019,
+    "changed_blocks": 216375,
+    "bytes": 3218316
+  },
+  {
+    "key": "Worker_04_M",
+    "package": "/Game/ProjectPreasidium/Art/Characters/ControlRig_Characters/Workers/Worker_04_M/Uniform1/Materials/NPC_Worker_04_M/NPC_Worker_04_M_fbm/__meshes_Merge_0_Diffuse",
+    "mode": "shirt_and_pants_components",
+    "source_asset_sha256": "4223ba9e720332649b0959d3b92f5e414874b6cb268fb4a40c222387ef44d2f1",
+    "source_bulk_sha256": "8119ac539aa2c6980c9387c902f3402e75080e6a6715cd4652a3a38298893c62",
+    "fallback": [
+      0.06328692530319932,
+      0.05487594096364523,
+      0.044767082493176014,
+      1.0
+    ],
+    "changed_pixels": 2223202,
+    "changed_blocks": 217392,
+    "bytes": 3218316
+  },
+  {
+    "key": "Worker_05_F",
+    "package": "/Game/ProjectPreasidium/Art/Characters/ControlRig_Characters/Workers/Worker_05_F/Uniform1/Materials/NPC_Worker_05_F/NPC_Worker_05_F_fbm/__meshes_Merge_0_Diffuse",
+    "mode": "shirt_and_pants_components",
+    "source_asset_sha256": "bc75e6763fab7216b2d39836bb4df66e708c4c65ef717bd56fb965371f5a16f1",
+    "source_bulk_sha256": "68e6b61c367d559c01117e426f2d6719adadd54250bfca5724c240345a54ea71",
+    "fallback": [
+      0.06577948425467733,
+      0.0560203094561095,
+      0.04448888566517334,
+      1.0
+    ],
+    "changed_pixels": 2239743,
+    "changed_blocks": 219754,
+    "bytes": 3218316
+  },
+  {
+    "key": "Worker_05_M",
+    "package": "/Game/ProjectPreasidium/Art/Characters/ControlRig_Characters/Workers/Worker_05_M/Uniform1/Materials/NPC_Worker_05_M/NPC_Worker_05_M_fbm/__meshes_Merge_0_Diffuse",
+    "mode": "shirt_and_pants_components",
+    "source_asset_sha256": "0494831afd8c1a722fb8655ec83b7c8bf65398111523c439c1402f853350d43f",
+    "source_bulk_sha256": "d41cda51fc2163bd853d915c7d39746a7e5b04cc80319bc2fd926c22750a4612",
+    "fallback": [
+      0.06295406065674322,
+      0.05341898690674943,
+      0.04196213204292068,
+      1.0
+    ],
+    "changed_pixels": 2287564,
+    "changed_blocks": 223989,
+    "bytes": 3218316
+  },
+  {
+    "key": "Worker_06_f",
+    "package": "/Game/ProjectPreasidium/Art/Characters/ControlRig_Characters/Workers/Worker_06_f/Uniform1/Materials/NPC_Worker_06_F/NPC_Worker_06_F_fbm/__meshes_Merge_0_Diffuse",
+    "mode": "shirt_and_pants_components",
+    "source_asset_sha256": "a2fb86ebfceb749d7330c5ce5fdc48a69538b312760516a47bc542f4561ecebe",
+    "source_bulk_sha256": "a0d84eb48153435b5953236eff30d4ce18452606d267a138984b936fdc2f3fa3",
+    "fallback": [
+      0.06759853308867039,
+      0.05856605185299535,
+      0.04819259175657975,
+      1.0
+    ],
+    "changed_pixels": 2158872,
+    "changed_blocks": 211893,
+    "bytes": 3218316
+  },
+  {
+    "key": "Worker_06_M",
+    "package": "/Game/ProjectPreasidium/Art/Characters/ControlRig_Characters/Workers/Worker_06_M/Uniform1/Materials/NPC_Worker_06_M/NPC_Worker_06_M_fbm/__meshes_Merge_0_Diffuse",
+    "mode": "shirt_and_pants_components",
+    "source_asset_sha256": "98df2f131c52efa622fccd0a89b95c056a97f9f597fb7c5b03446e258eb4ede9",
+    "source_bulk_sha256": "776f49028afe02aeac767260370caa071e9ce6a93e2f3fd854fe10fa23084c1a",
+    "fallback": [
+      0.06424422996896192,
+      0.05596778102067035,
+      0.046228982321739664,
+      1.0
+    ],
+    "changed_pixels": 2203367,
+    "changed_blocks": 215838,
+    "bytes": 3218316
+  },
+  {
+    "key": "T_PoliceCar_Body_Damage_BC",
+    "package": "/Game/ProjectPreasidium/Art/Vehicles/PoliceCar/Textures/New/Damage/T_PoliceCar_Body_Damage_BC",
+    "mode": "car_body",
+    "source_asset_sha256": "1550c4cca81695f0abb6f0d62898dddd31f185a2d605a6b52b0b24f602bc8d2c",
+    "source_bulk_sha256": "98c0b4ea613e51d801ba52cbd069f3f6eb1e949dc20a22095a28699c15f8b9e7",
+    "fallback": [
+      0.026352332755091856,
+      0.026413979797873632,
+      0.026666081700673916,
+      1.0
+    ],
+    "changed_pixels": 5859787,
+    "changed_blocks": 694805,
+    "bytes": 12688272
+  },
+  {
+    "key": "T_Police01_Body_BC",
+    "package": "/Game/ProjectPreasidium/Art/Vehicles/PoliceCar/Textures/New/T_Police01_Body_BC",
+    "mode": "car_body",
+    "source_asset_sha256": "423f3f140ad2502a6b25dc640c7cbfee459103848d49d3ab6ca70abed96730ad",
+    "source_bulk_sha256": "5e05dce374858bfd5a2fa71c211b7e12c3f6e7e69dc9cf6e2b8cc10ee2813a5f",
+    "fallback": [
+      0.022517590905190038,
+      0.022731970604960128,
+      0.02289711441454681,
+      1.0
+    ],
+    "changed_pixels": 4656993,
+    "changed_blocks": 473207,
+    "bytes": 12688272
+  }
+]

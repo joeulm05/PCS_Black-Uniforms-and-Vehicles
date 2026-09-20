@@ -1,0 +1,389 @@
+{
+  "status": "offline_checks_passed",
+  "in_game_test": "shirts and cars confirmed by author; added pants verified offline",
+  "textures": 14,
+  "checks": [
+    {
+      "asset": "Workers/Worker_01_F/Uniform1/Materials/NPC_Worker_01_F_Uniform01/NPC_Worker_01_F_Uniform01_fbm/__meshes_Merge_0_Diffuse.uasset",
+      "asset_bytes_preserved_except_hashes_and_fallback": true,
+      "bulk_chunk_hashes_verified": true,
+      "small_blue_detail_components": 6,
+      "small_blue_detail_pixels_changed": 0,
+      "gold_pixels_changed": 0,
+      "cloth_pixels": 1016916,
+      "mean_shirt_rgb_before": [
+        117.63,
+        149.01,
+        198.84
+      ],
+      "mean_shirt_rgb_after": [
+        23.19,
+        23.24,
+        23.36
+      ],
+      "pants_pixels": 1179275,
+      "mean_pants_rgb_before": [
+        12.92,
+        20.78,
+        45.4
+      ],
+      "mean_pants_rgb_after": [
+        16.06,
+        19.81,
+        18.08
+      ],
+      "protected_navy_interior_pixels_changed": 0
+    },
+    {
+      "asset": "Workers/Worker_01_M/Uniform01/Materials/NPC_Worker_01_M_Uniform01/NPC_Worker_01_M_Uniform01_fbm/__meshes_Merge_0_Diffuse.uasset",
+      "asset_bytes_preserved_except_hashes_and_fallback": true,
+      "bulk_chunk_hashes_verified": true,
+      "small_blue_detail_components": 7,
+      "small_blue_detail_pixels_changed": 0,
+      "gold_pixels_changed": 0,
+      "cloth_pixels": 1070815,
+      "mean_shirt_rgb_before": [
+        117.96,
+        149.43,
+        199.3
+      ],
+      "mean_shirt_rgb_after": [
+        23.22,
+        23.28,
+        23.4
+      ],
+      "pants_pixels": 1156166,
+      "mean_pants_rgb_before": [
+        12.92,
+        20.78,
+        45.4
+      ],
+      "mean_pants_rgb_after": [
+        16.05,
+        19.81,
+        18.07
+      ],
+      "protected_navy_interior_pixels_changed": 0
+    },
+    {
+      "asset": "Workers/Worker_02_F/Uniform1/Materials/NPC_Worker_02_F_Uniform1/NPC_Worker_02_F_Uniform1_fbm/__meshes_Merge_0_Diffuse.uasset",
+      "asset_bytes_preserved_except_hashes_and_fallback": true,
+      "bulk_chunk_hashes_verified": true,
+      "small_blue_detail_components": 4,
+      "small_blue_detail_pixels_changed": 0,
+      "gold_pixels_changed": 0,
+      "cloth_pixels": 956375,
+      "mean_shirt_rgb_before": [
+        117.68,
+        148.96,
+        198.53
+      ],
+      "mean_shirt_rgb_after": [
+        23.24,
+        23.3,
+        23.46
+      ],
+      "pants_pixels": 1196219,
+      "mean_pants_rgb_before": [
+        12.89,
+        20.75,
+        45.3
+      ],
+      "mean_pants_rgb_after": [
+        16.06,
+        19.78,
+        18.07
+      ],
+      "protected_navy_interior_pixels_changed": 0
+    },
+    {
+      "asset": "Workers/Worker_02_M/Uniform1/Materials/NPC_Worker_02_M_Uniform1/NPC_Worker_02_M_Uniform1_fbm/__meshes_Merge_0_Diffuse.uasset",
+      "asset_bytes_preserved_except_hashes_and_fallback": true,
+      "bulk_chunk_hashes_verified": true,
+      "small_blue_detail_components": 4,
+      "small_blue_detail_pixels_changed": 0,
+      "gold_pixels_changed": 0,
+      "cloth_pixels": 1042165,
+      "mean_shirt_rgb_before": [
+        118.13,
+        149.52,
+        199.31
+      ],
+      "mean_shirt_rgb_after": [
+        23.21,
+        23.24,
+        23.34
+      ],
+      "pants_pixels": 1138473,
+      "mean_pants_rgb_before": [
+        12.95,
+        20.78,
+        45.34
+      ],
+      "mean_pants_rgb_after": [
+        16.07,
+        19.79,
+        18.08
+      ],
+      "protected_navy_interior_pixels_changed": 0
+    },
+    {
+      "asset": "Workers/Worker_03_F/Uniform1/Materials/NPC_Worker_03_F/NPC_Worker_03_F_fbm/__meshes_Merge_0_Diffuse.uasset",
+      "asset_bytes_preserved_except_hashes_and_fallback": true,
+      "bulk_chunk_hashes_verified": true,
+      "small_blue_detail_components": 6,
+      "small_blue_detail_pixels_changed": 0,
+      "gold_pixels_changed": 0,
+      "cloth_pixels": 961139,
+      "mean_shirt_rgb_before": [
+        118.11,
+        149.61,
+        199.62
+      ],
+      "mean_shirt_rgb_after": [
+        23.23,
+        23.26,
+        23.38
+      ],
+      "pants_pixels": 1203263,
+      "mean_pants_rgb_before": [
+        12.89,
+        20.73,
+        45.31
+      ],
+      "mean_pants_rgb_after": [
+        16.05,
+        19.77,
+        18.07
+      ],
+      "protected_navy_interior_pixels_changed": 0
+    },
+    {
+      "asset": "Workers/Worker_03_M/Uniform1/Materials/NPC_Worker_03_M/NPC_Worker_03_M_fbm/__meshes_Merge_0_Diffuse.uasset",
+      "asset_bytes_preserved_except_hashes_and_fallback": true,
+      "bulk_chunk_hashes_verified": true,
+      "small_blue_detail_components": 4,
+      "small_blue_detail_pixels_changed": 0,
+      "gold_pixels_changed": 0,
+      "cloth_pixels": 998908,
+      "mean_shirt_rgb_before": [
+        116.35,
+        148.82,
+        200.68
+      ],
+      "mean_shirt_rgb_after": [
+        23.38,
+        23.36,
+        23.57
+      ],
+      "pants_pixels": 1081970,
+      "mean_pants_rgb_before": [
+        10.13,
+        17.97,
+        42.69
+      ],
+      "mean_pants_rgb_after": [
+        16.02,
+        16.31,
+        17.96
+      ],
+      "protected_navy_interior_pixels_changed": 0
+    },
+    {
+      "asset": "Workers/Worker_04_F/Uniform1/Materials/NPC_Worker_04_F/NPC_Worker_04_F_fbm/__meshes_Merge_0_Diffuse.uasset",
+      "asset_bytes_preserved_except_hashes_and_fallback": true,
+      "bulk_chunk_hashes_verified": true,
+      "small_blue_detail_components": 5,
+      "small_blue_detail_pixels_changed": 0,
+      "gold_pixels_changed": 0,
+      "cloth_pixels": 1035570,
+      "mean_shirt_rgb_before": [
+        117.53,
+        148.93,
+        198.74
+      ],
+      "mean_shirt_rgb_after": [
+        23.18,
+        23.22,
+        23.37
+      ],
+      "pants_pixels": 1167853,
+      "mean_pants_rgb_before": [
+        12.94,
+        20.8,
+        45.44
+      ],
+      "mean_pants_rgb_after": [
+        16.06,
+        19.83,
+        18.07
+      ],
+      "protected_navy_interior_pixels_changed": 0
+    },
+    {
+      "asset": "Workers/Worker_04_M/Uniform1/Materials/NPC_Worker_04_M/NPC_Worker_04_M_fbm/__meshes_Merge_0_Diffuse.uasset",
+      "asset_bytes_preserved_except_hashes_and_fallback": true,
+      "bulk_chunk_hashes_verified": true,
+      "small_blue_detail_components": 5,
+      "small_blue_detail_pixels_changed": 0,
+      "gold_pixels_changed": 0,
+      "cloth_pixels": 1047276,
+      "mean_shirt_rgb_before": [
+        117.89,
+        149.37,
+        199.26
+      ],
+      "mean_shirt_rgb_after": [
+        23.21,
+        23.23,
+        23.33
+      ],
+      "pants_pixels": 1176244,
+      "mean_pants_rgb_before": [
+        12.95,
+        20.81,
+        45.5
+      ],
+      "mean_pants_rgb_after": [
+        16.05,
+        19.82,
+        18.09
+      ],
+      "protected_navy_interior_pixels_changed": 0
+    },
+    {
+      "asset": "Workers/Worker_05_F/Uniform1/Materials/NPC_Worker_05_F/NPC_Worker_05_F_fbm/__meshes_Merge_0_Diffuse.uasset",
+      "asset_bytes_preserved_except_hashes_and_fallback": true,
+      "bulk_chunk_hashes_verified": true,
+      "small_blue_detail_components": 7,
+      "small_blue_detail_pixels_changed": 0,
+      "gold_pixels_changed": 0,
+      "cloth_pixels": 1045997,
+      "mean_shirt_rgb_before": [
+        117.58,
+        148.96,
+        198.74
+      ],
+      "mean_shirt_rgb_after": [
+        23.19,
+        23.23,
+        23.37
+      ],
+      "pants_pixels": 1194090,
+      "mean_pants_rgb_before": [
+        12.91,
+        20.76,
+        45.39
+      ],
+      "mean_pants_rgb_after": [
+        16.06,
+        19.8,
+        18.06
+      ],
+      "protected_navy_interior_pixels_changed": 0
+    },
+    {
+      "asset": "Workers/Worker_05_M/Uniform1/Materials/NPC_Worker_05_M/NPC_Worker_05_M_fbm/__meshes_Merge_0_Diffuse.uasset",
+      "asset_bytes_preserved_except_hashes_and_fallback": true,
+      "bulk_chunk_hashes_verified": true,
+      "small_blue_detail_components": 4,
+      "small_blue_detail_pixels_changed": 0,
+      "gold_pixels_changed": 0,
+      "cloth_pixels": 1099350,
+      "mean_shirt_rgb_before": [
+        118.02,
+        149.44,
+        199.27
+      ],
+      "mean_shirt_rgb_after": [
+        23.22,
+        23.22,
+        23.35
+      ],
+      "pants_pixels": 1188605,
+      "mean_pants_rgb_before": [
+        12.92,
+        20.8,
+        45.41
+      ],
+      "mean_pants_rgb_after": [
+        16.06,
+        19.8,
+        18.08
+      ],
+      "protected_navy_interior_pixels_changed": 0
+    },
+    {
+      "asset": "Workers/Worker_06_f/Uniform1/Materials/NPC_Worker_06_F/NPC_Worker_06_F_fbm/__meshes_Merge_0_Diffuse.uasset",
+      "asset_bytes_preserved_except_hashes_and_fallback": true,
+      "bulk_chunk_hashes_verified": true,
+      "small_blue_detail_components": 5,
+      "small_blue_detail_pixels_changed": 0,
+      "gold_pixels_changed": 0,
+      "cloth_pixels": 941306,
+      "mean_shirt_rgb_before": [
+        117.22,
+        148.48,
+        198.12
+      ],
+      "mean_shirt_rgb_after": [
+        23.08,
+        23.14,
+        23.24
+      ],
+      "pants_pixels": 1217918,
+      "mean_pants_rgb_before": [
+        12.89,
+        20.75,
+        45.26
+      ],
+      "mean_pants_rgb_after": [
+        16.08,
+        19.78,
+        18.08
+      ],
+      "protected_navy_interior_pixels_changed": 0
+    },
+    {
+      "asset": "Workers/Worker_06_M/Uniform1/Materials/NPC_Worker_06_M/NPC_Worker_06_M_fbm/__meshes_Merge_0_Diffuse.uasset",
+      "asset_bytes_preserved_except_hashes_and_fallback": true,
+      "bulk_chunk_hashes_verified": true,
+      "small_blue_detail_components": 5,
+      "small_blue_detail_pixels_changed": 0,
+      "gold_pixels_changed": 0,
+      "cloth_pixels": 1120066,
+      "mean_shirt_rgb_before": [
+        117.66,
+        149.04,
+        198.81
+      ],
+      "mean_shirt_rgb_after": [
+        23.16,
+        23.2,
+        23.31
+      ],
+      "pants_pixels": 1083730,
+      "mean_pants_rgb_before": [
+        12.96,
+        20.82,
+        45.47
+      ],
+      "mean_pants_rgb_after": [
+        16.06,
+        19.83,
+        18.09
+      ],
+      "protected_navy_interior_pixels_changed": 0
+    },
+    {
+      "asset": "PoliceCar/Textures/New/Damage/T_PoliceCar_Body_Damage_BC.uasset",
+      "asset_bytes_preserved_except_hashes_and_fallback": true,
+      "bulk_chunk_hashes_verified": true
+    },
+    {
+      "asset": "PoliceCar/Textures/New/T_Police01_Body_BC.uasset",
+      "asset_bytes_preserved_except_hashes_and_fallback": true,
+      "bulk_chunk_hashes_verified": true
+    }
+  ]
+}
